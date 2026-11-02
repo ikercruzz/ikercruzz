@@ -20,7 +20,7 @@ Apasionado por el desarrollo web y móvil, las bases de datos y la creación de 
 - 🔭 **Experiencia destacada:** Seleccionado por mi facultad para participar como desarrollador *Full Stack* en un **Sistema de Auditoría para SAP**, implementando soluciones de integridad de datos y adaptándome a **Python** y **Flask** sobre la marcha, junto a **React**.
 - 🏢 Experiencia previa en el sector industrial desarrollando sistemas de control de inventarios y segregación de riesgos (RBAC / SoD) en **Constructora y Perforadora Latina**.
 - 🛠️ Desarrollo full-stack, apps multiplataformas, modelado de bases de datos y automatización.
-- 📍 Veracruz, México.
+- 📍 Nanchital,Veracruz,Mx.🇲🇽
 
 ---
 
